@@ -33,9 +33,9 @@
         "icon": "computer",
         "groups": [
           {
-            "group": "Kirish",
+            "group": "1-MODUL. KIRISH",
             "pages": [
-              "it-savodxonlik/kirish/1-dars-boshlang-ich-tushunchalar"
+              "kiberxavfsizlik/1-modul/1-dars"
             ]
           }
         ]
@@ -45,16 +45,32 @@
         "icon": "gear-code",
         "groups": [
           {
-            "group": "Kirish",
+            "group": "1-MODUL. KIRISH",
             "pages": [
-              "frontend-pro/kirish/1-dars-operatsion-tizim-va-dasturlash-haqida"
+              "kiberxavfsizlik/1-modul-copied-2/1-dars"
             ]
+          },
+          {
+            "group": "2-MODUL. HTML",
+            "pages": []
+          },
+          {
+            "group": "3-MODUL. CSS",
+            "pages": []
           }
         ]
       },
       {
         "tab": "KIBERXAVFSIZLIK",
-        "icon": "lock-keyhole"
+        "icon": "lock-keyhole",
+        "groups": [
+          {
+            "group": "1-MODUL. KIRISH",
+            "pages": [
+              "kiberxavfsizlik/1-modul-copied-1/1-dars"
+            ]
+          }
+        ]
       }
     ]
   },
