@@ -9,9 +9,31 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Website",
+          "icon": "globe",
+          "href": "https://veymay.uz"
+        },
+        {
+          "anchor": "Telegram",
+          "icon": "paper-plane",
+          "href": "https://t.me/veymayuz"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Guides",
+        "global": {
+          "versions": [
+            {
+              "version": "444",
+              "href": ""
+            }
+          ]
+        },
         "groups": [
           {
             "group": "Getting started",
@@ -67,21 +89,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
