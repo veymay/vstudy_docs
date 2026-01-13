@@ -30,15 +30,39 @@
     "tabs": [
       {
         "tab": "IT SAVODXONLIK",
-        "icon": "computer"
+        "icon": "computer",
+        "groups": [
+          {
+            "group": "Kirish",
+            "pages": [
+              "it-savodxonlik/kirish/1-dars-boshlang-ich-tushunchalar"
+            ]
+          }
+        ]
       },
       {
         "tab": "FRONTEND PRO",
-        "icon": "gear-code"
+        "icon": "gear-code",
+        "groups": [
+          {
+            "group": "Kirish",
+            "pages": [
+              "frontend-pro/kirish/1-dars-operatsion-tizim-va-dasturlash-haqida"
+            ]
+          }
+        ]
       },
       {
         "tab": "CYBERSECURITY",
-        "icon": "lock-hashtag"
+        "icon": "lock-hashtag",
+        "groups": [
+          {
+            "group": "Kirish",
+            "pages": [
+              "cybersecurity/kirish/1-dars-windows-os-bilan-xavfsizlik"
+            ]
+          }
+        ]
       }
     ]
   },
