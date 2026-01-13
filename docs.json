@@ -34,16 +34,7 @@
       },
       {
         "tab": "FRONTEND PRO",
-        "icon": "gear-code",
-        "groups": [
-          {
-            "group": "HTML",
-            "pages": [
-              "frontend/html/1-dars-kirish",
-              "frontend/html/2-dars-teglar"
-            ]
-          }
-        ]
+        "icon": "gear-code"
       },
       {
         "tab": "CYBERSECURITY",
