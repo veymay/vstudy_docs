@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "vStudy",
   "colors": {
     "primary": "#16A34A",
@@ -49,16 +49,11 @@
     ]
   },
   "logo": {
-    "light": "/logo/logo_light.svg",
-    "dark": "/logo/logo_dark.svg"
+    "light": "/logo/logo_dark.svg",
+    "dark": "/logo/logo_light.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Dashboard",
@@ -81,7 +76,7 @@
     "latex": false
   },
   "background": {
-    "decoration": "grid"
+    "decoration": "windows"
   },
   "favicon": "/vlogo.svg"
 }
