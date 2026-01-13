@@ -11,22 +11,16 @@
     "global": {
       "anchors": [
         {
-          "anchor": "WEBSITE",
-          "icon": "globe",
-          "color": {
-            "light": "#7dba28",
-            "dark": "#7dba28"
-          },
+          "anchor": "Website",
           "href": "https://veymay.uz"
         },
         {
-          "anchor": "TELEGRAM",
-          "icon": "paper-plane",
-          "color": {
-            "light": "#7dba28",
-            "dark": "#7dba28"
-          },
+          "anchor": "Telegram",
           "href": "https://t.me/veymayuz"
+        },
+        {
+          "anchor": "Instagram",
+          "href": "https://instagram.com/veymayuz"
         }
       ]
     },
