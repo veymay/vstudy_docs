@@ -1,0 +1,98 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "maple",
+  "name": "Mint Starter Kit",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/images/veymay.jpg",
+  "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "WEBSITE",
+          "icon": "globe",
+          "color": {
+            "light": "#7dba28",
+            "dark": "#7dba28"
+          },
+          "href": "https://veymay.uz"
+        },
+        {
+          "anchor": "TELEGRAM",
+          "icon": "paper-plane",
+          "color": {
+            "light": "#7dba28",
+            "dark": "#7dba28"
+          },
+          "href": "https://t.me/veymayuz"
+        }
+      ]
+    },
+    "tabs": [
+      {
+        "tab": "DARSLAR",
+        "dropdowns": [
+          {
+            "dropdown": "HTML",
+            "products": [
+              {
+                "product": "Untitled Product",
+                "pages": [
+                  "darslar/html/untitled-product/1-dars-kirish"
+                ]
+              },
+              {
+                "product": "Untitled Product",
+                "pages": [
+                  "darslar/html/untitled-product/asdsad"
+                ]
+              }
+            ]
+          },
+          {
+            "dropdown": "CSS"
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  }
+}
